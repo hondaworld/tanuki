@@ -12,6 +12,7 @@ class Currency
         $this->date = $date;
     }
 
+
     /**
      * @return array
      */
